@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters">
+  <channel>
+    <title>FuentesCast</title>
+    <link>https://americafirst.plus</link>
+    <atom:link href="https://podcaster.github.io/fuentescast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Nick Fuentes's America First shows as an audio podcast, with chapters.</description>
+    <language>en</language>
+    <itunes:author>FuentesCast</itunes:author>
+    <itunes:image href="https://podcaster.github.io/fuentescast/show-artwork.png"/>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>MUSLIM INVASION??? Moroccan RAPISTS Invade Spain In Africa - AF1726</title>
+      <guid isPermaLink="false">muslim-invasion-moroccan-rapists-invade-spain-in-africa</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/podcaster/fuentescast/releases/download/muslim-invasion-moroccan-rapists-invade-spain-in-africa/muslim-invasion-moroccan-rapists-invade-spain-in-africa.mp3" length="135015306" type="audio/mpeg"/>
+      <itunes:duration>2:20:38</itunes:duration>
+      <itunes:image href="https://github.com/podcaster/fuentescast/releases/download/muslim-invasion-moroccan-rapists-invade-spain-in-africa/muslim-invasion-moroccan-rapists-invade-spain-in-africa.png"/>
+      <podcast:chapters url="https://podcaster.github.io/fuentescast/chapters/muslim-invasion-moroccan-rapists-invade-spain-in-africa.json" type="application/json+chapters"/>
+      <psc:chapters version="1.2">
+        <psc:chapter start="00:00:00.000" title="Israel-backed immigrant invasion in Spain"/>
+        <psc:chapter start="00:05:27.750" title="Todd Blanche voted out &amp; no relief fund"/>
+        <psc:chapter start="00:15:08.000" title="Destroying &amp; deporting Sneako the anti-White brown clown"/>
+        <psc:chapter start="00:25:31.440" title="The massive breach"/>
+        <psc:chapter start="00:33:24.880" title="The helplessness &amp; the immigrant issue"/>
+        <psc:chapter start="00:43:27.360" title="The reasons why this happened: leftism, Israel, and muslim enemies"/>
+        <psc:chapter start="00:53:26.260" title="Israel and the republican's push to brownify Spain"/>
+        <psc:chapter start="01:03:30.640" title="Why jews push immigration &amp; they are outsiders"/>
+        <psc:chapter start="01:12:20.440" title="This is a grave matter"/>
+        <psc:chapter start="01:19:17.240" title="Leftists and brown clowns do not understand"/>
+        <psc:chapter start="01:23:22.000" title="Superchats"/>
+      </psc:chapters>
+      <description><![CDATA[Original livestream: <a href="https://rumble.com/v7dibje-america-first-ep.-1726.html">https://rumble.com/v7dibje-america-first-ep.-1726.html</a><br/>
+Support the show: <a href="https://americafirst.plus">https://americafirst.plus</a><br/>
+Merch store: <a href="https://fuentes.store">https://fuentes.store</a><br/>
+<br/>
+<br/>
+Chapters:<br/>
+00:00:00 Israel-backed immigrant invasion in Spain<br/>
+00:05:28 Todd Blanche voted out &amp; no relief fund<br/>
+00:15:08 Destroying &amp; deporting Sneako the anti-White brown clown<br/>
+00:25:31 The massive breach<br/>
+00:33:25 The helplessness &amp; the immigrant issue<br/>
+00:43:27 The reasons why this happened: leftism, Israel, and muslim enemies<br/>
+00:53:26 Israel and the republican's push to brownify Spain<br/>
+01:03:31 Why jews push immigration &amp; they are outsiders<br/>
+01:12:20 This is a grave matter<br/>
+01:19:17 Leftists and brown clowns do not understand<br/>
+01:23:22 Superchats<br/>
+<br/>
+<br/>
+Chapters are generated automatically and may contain mistakes. This episode's chapters were refined with the detailed timestamps Rumble user bakeddGoron posted on the livestream. Thanks, bakeddGoron! 🙏]]></description>
+    </item>
+  </channel>
+</rss>
