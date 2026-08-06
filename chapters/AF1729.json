@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 63,
+      "title": "Tucker Plan Analysis"
+    },
+    {
+      "startTime": 588,
+      "title": "ICE Policy Discussion"
+    },
+    {
+      "startTime": 841,
+      "title": "Merch Promotion"
+    },
+    {
+      "startTime": 906,
+      "title": "Superchat Reading 1"
+    },
+    {
+      "startTime": 4176,
+      "title": "Superchat Reading 2"
+    },
+    {
+      "startTime": 9291,
+      "title": "Closing Remarks"
+    }
+  ]
+}
