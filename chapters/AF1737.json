@@ -1,0 +1,37 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 41,
+      "title": "Lindsey Clancy Case"
+    },
+    {
+      "startTime": 373,
+      "title": "Jared Kushner Meeting"
+    },
+    {
+      "startTime": 425,
+      "title": "Promo & Merch"
+    },
+    {
+      "startTime": 472,
+      "title": "James Fishback News"
+    },
+    {
+      "startTime": 2718,
+      "title": "Cultural Critique"
+    },
+    {
+      "startTime": 4078,
+      "title": "Superchats"
+    },
+    {
+      "startTime": 6518,
+      "title": "Outro"
+    }
+  ]
+}
