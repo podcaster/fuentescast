@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 401,
+      "title": "Promo & Merch"
+    },
+    {
+      "startTime": 510,
+      "title": "America First Scorecard Launch"
+    },
+    {
+      "startTime": 4439,
+      "title": "Superchat Reading Starts"
+    },
+    {
+      "startTime": 4784,
+      "title": "Featured Story – Indian Takeover of Texas"
+    },
+    {
+      "startTime": 6833,
+      "title": "Supreme Court Mail‑in Ballot Decision"
+    },
+    {
+      "startTime": 7201,
+      "title": "Closing Remarks & Final Superchats"
+    }
+  ]
+}
