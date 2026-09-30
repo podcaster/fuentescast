@@ -1,0 +1,25 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Intro & Promo"
+    },
+    {
+      "startTime": 485,
+      "title": "Jane Doe Rant"
+    },
+    {
+      "startTime": 681,
+      "title": "Sarah Huckabee Ad Story"
+    },
+    {
+      "startTime": 4453,
+      "title": "Superchat Segment"
+    },
+    {
+      "startTime": 7135,
+      "title": "Iran War Update"
+    }
+  ]
+}
