@@ -1,0 +1,25 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 360,
+      "title": "Show Promotion"
+    },
+    {
+      "startTime": 451,
+      "title": "Carlson Family Drama"
+    },
+    {
+      "startTime": 1747,
+      "title": "Groyper Problem Article"
+    },
+    {
+      "startTime": 3820,
+      "title": "Superchat Segment"
+    }
+  ]
+}
