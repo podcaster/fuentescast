@@ -11,6 +11,38 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Pearl Davis Interviews Nick Fuentes</title>
+      <guid isPermaLink="false">pearl-davis-interviews-nick-fuentes</guid>
+      <pubDate>Sat, 17 Oct 2026 00:39:20 GMT</pubDate>
+      <enclosure url="https://github.com/podcaster/fuentescast/releases/download/pearl-davis-interviews-nick-fuentes/pearl-davis-interviews-nick-fuentes.mp3" length="78486145" type="audio/mpeg"/>
+      <itunes:duration>1:21:45</itunes:duration>
+      <itunes:image href="https://github.com/podcaster/fuentescast/releases/download/pearl-davis-interviews-nick-fuentes/pearl-davis-interviews-nick-fuentes.png"/>
+      <podcast:chapters url="https://podcaster.github.io/fuentescast/chapters/pearl-davis-interviews-nick-fuentes.json" type="application/json+chapters"/>
+      <psc:chapters version="1.2">
+        <psc:chapter start="00:00:00.000" title="Intro &amp; America Reflections"/>
+        <psc:chapter start="00:01:31.000" title="E‑girls, Cornell Case &amp; Feminism"/>
+        <psc:chapter start="00:31:00.000" title="Trump, Republicans &amp; Politics"/>
+        <psc:chapter start="01:07:00.000" title="White Men, Chads &amp; Social Dynamics"/>
+        <psc:chapter start="01:11:56.000" title="Superchat Q&amp;A"/>
+        <psc:chapter start="01:20:14.000" title="Final Thoughts &amp; Outro"/>
+      </psc:chapters>
+      <description><![CDATA[Original video: <a href="https://americafirst.plus/media/pearl-davis-interviews-nick-fuentes">https://americafirst.plus/media/pearl-davis-interviews-nick-fuentes</a><br/>
+Support the show: <a href="https://americafirst.plus">https://americafirst.plus</a><br/>
+Merch store: <a href="https://fuentes.store">https://fuentes.store</a><br/>
+<br/>
+<br/>
+Chapters:<br/>
+00:00:00 Intro &amp; America Reflections<br/>
+00:01:31 E‑girls, Cornell Case &amp; Feminism<br/>
+00:31:00 Trump, Republicans &amp; Politics<br/>
+01:07:00 White Men, Chads &amp; Social Dynamics<br/>
+01:11:56 Superchat Q&amp;A<br/>
+01:20:14 Final Thoughts &amp; Outro<br/>
+<br/>
+<br/>
+Chapters are automatically generated and may contain mistakes.]]></description>
+    </item>
+    <item>
       <title>IRAN WAR DAY 230: Houthis Impose AIR BLOCKADE On Saudi Arabia - AF1764</title>
       <guid isPermaLink="false">iran-war-day-230-houthis-impose-air-blockade-on-saudi-arabia</guid>
       <pubDate>Fri, 16 Oct 2026 10:42:23 GMT</pubDate>
