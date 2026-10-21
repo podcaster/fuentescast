@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 15,
+      "title": "Vivek Ramaswamy Ad Story"
+    },
+    {
+      "startTime": 31,
+      "title": "Dinesh D'Souza Defense"
+    },
+    {
+      "startTime": 55,
+      "title": "Megyn Kelly Commentary"
+    },
+    {
+      "startTime": 3600,
+      "title": "Voting and Midterm Outlook"
+    },
+    {
+      "startTime": 4325,
+      "title": "Susie Wiles & White House"
+    },
+    {
+      "startTime": 4589,
+      "title": "Show Promotion & Rumble"
+    },
+    {
+      "startTime": 4791,
+      "title": "Superchat Reading"
+    },
+    {
+      "startTime": 7324,
+      "title": "Closing Remarks"
+    }
+  ]
+}
