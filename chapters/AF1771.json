@@ -1,0 +1,25 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 300,
+      "title": "Promo & Merch"
+    },
+    {
+      "startTime": 472,
+      "title": "Midterms & Impeachment"
+    },
+    {
+      "startTime": 1016,
+      "title": "ICE Doxing Story"
+    },
+    {
+      "startTime": 3429,
+      "title": "Superchat"
+    }
+  ]
+}
