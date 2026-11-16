@@ -11,6 +11,36 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Nick Fuentes and Joel Webbon Q&amp;A - NXR Conference</title>
+      <guid isPermaLink="false">nick-fuentes-and-joel-webbon-qa-nxr-conference</guid>
+      <pubDate>Mon, 16 Nov 2026 05:43:13 GMT</pubDate>
+      <enclosure url="https://github.com/podcaster/fuentescast/releases/download/nick-fuentes-and-joel-webbon-qa-nxr-conference/nick-fuentes-and-joel-webbon-qa-nxr-conference.mp3" length="41970348" type="audio/mpeg"/>
+      <itunes:duration>43:43</itunes:duration>
+      <itunes:image href="https://github.com/podcaster/fuentescast/releases/download/nick-fuentes-and-joel-webbon-qa-nxr-conference/nick-fuentes-and-joel-webbon-qa-nxr-conference.png"/>
+      <podcast:chapters url="https://podcaster.github.io/fuentescast/chapters/nick-fuentes-and-joel-webbon-qa-nxr-conference.json" type="application/json+chapters"/>
+      <psc:chapters version="1.2">
+        <psc:chapter start="00:00:00.000" title="Opening &amp; Intro"/>
+        <psc:chapter start="00:02:10.000" title="Hitler &amp; Afterlife Debate"/>
+        <psc:chapter start="00:06:27.000" title="Religious Pluralism Discussion"/>
+        <psc:chapter start="00:11:17.000" title="Political Strategy &amp; 2028 Outlook"/>
+        <psc:chapter start="00:37:56.000" title="Announcements &amp; Promotion"/>
+      </psc:chapters>
+      <description><![CDATA[Original video: <a href="https://americafirst.plus/media/nick-fuentes-and-joel-webbon-qa-nxr-conference">https://americafirst.plus/media/nick-fuentes-and-joel-webbon-qa-nxr-conference</a><br/>
+Support the show: <a href="https://americafirst.plus">https://americafirst.plus</a><br/>
+Merch store: <a href="https://fuentes.store">https://fuentes.store</a><br/>
+<br/>
+<br/>
+Chapters:<br/>
+00:00:00 Opening &amp; Intro<br/>
+00:02:10 Hitler &amp; Afterlife Debate<br/>
+00:06:27 Religious Pluralism Discussion<br/>
+00:11:17 Political Strategy &amp; 2028 Outlook<br/>
+00:37:56 Announcements &amp; Promotion<br/>
+<br/>
+<br/>
+Chapters are automatically generated and may contain mistakes.]]></description>
+    </item>
+    <item>
       <title>Nick Fuentes Speaks at NXR Conference</title>
       <guid isPermaLink="false">nick-fuentes-speaks-at-nxr-conference</guid>
       <pubDate>Mon, 16 Nov 2026 05:40:03 GMT</pubDate>
