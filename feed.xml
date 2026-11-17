@@ -11,6 +11,30 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Alex Jones Interviews Nick Fuentes at NXR Conference</title>
+      <guid isPermaLink="false">alex-jones-interviews-nick-fuentes-at-nxr-conference</guid>
+      <pubDate>Tue, 17 Nov 2026 07:41:07 GMT</pubDate>
+      <enclosure url="https://github.com/podcaster/fuentescast/releases/download/alex-jones-interviews-nick-fuentes-at-nxr-conference/alex-jones-interviews-nick-fuentes-at-nxr-conference.mp3" length="24556121" type="audio/mpeg"/>
+      <itunes:duration>25:35</itunes:duration>
+      <itunes:image href="https://github.com/podcaster/fuentescast/releases/download/alex-jones-interviews-nick-fuentes-at-nxr-conference/alex-jones-interviews-nick-fuentes-at-nxr-conference.png"/>
+      <podcast:chapters url="https://podcaster.github.io/fuentescast/chapters/alex-jones-interviews-nick-fuentes-at-nxr-conference.json" type="application/json+chapters"/>
+      <psc:chapters version="1.2">
+        <psc:chapter start="00:00:00.000" title="Intro &amp; Predictions"/>
+        <psc:chapter start="00:00:40.000" title="GOP Realignment &amp; Civil War"/>
+      </psc:chapters>
+      <description><![CDATA[Original video: <a href="https://americafirst.plus/media/alex-jones-interviews-nick-fuentes-at-nxr-conference">https://americafirst.plus/media/alex-jones-interviews-nick-fuentes-at-nxr-conference</a><br/>
+Support the show: <a href="https://americafirst.plus">https://americafirst.plus</a><br/>
+Merch store: <a href="https://fuentes.store">https://fuentes.store</a><br/>
+<br/>
+<br/>
+Chapters:<br/>
+00:00:00 Intro &amp; Predictions<br/>
+00:00:40 GOP Realignment &amp; Civil War<br/>
+<br/>
+<br/>
+Chapters are automatically generated and may contain mistakes.]]></description>
+    </item>
+    <item>
       <title>Nick Fuentes and Joel Webbon Q&amp;A - NXR Conference</title>
       <guid isPermaLink="false">nick-fuentes-and-joel-webbon-qa-nxr-conference</guid>
       <pubDate>Mon, 16 Nov 2026 05:43:13 GMT</pubDate>
