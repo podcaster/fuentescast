@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Intro & Episode Overview"
+    },
+    {
+      "startTime": 68,
+      "title": "Cyber Attack Deep Dive"
+    },
+    {
+      "startTime": 722,
+      "title": "AI False Flag & Politics"
+    },
+    {
+      "startTime": 1260,
+      "title": "Culture War & GTA Talk"
+    },
+    {
+      "startTime": 2603,
+      "title": "Merchandise Promotion"
+    },
+    {
+      "startTime": 2662,
+      "title": "Trump Immigration Discussion"
+    },
+    {
+      "startTime": 2801,
+      "title": "Event Recap & Closing"
+    }
+  ]
+}
