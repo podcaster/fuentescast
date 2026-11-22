@@ -11,6 +11,38 @@
     <itunes:explicit>true</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>Luke Beasley vs. Nick Fuentes</title>
+      <guid isPermaLink="false">luke-beasley-vs-nick-fuentes</guid>
+      <pubDate>Sun, 22 Nov 2026 21:23:59 GMT</pubDate>
+      <enclosure url="https://github.com/podcaster/fuentescast/releases/download/luke-beasley-vs-nick-fuentes/luke-beasley-vs-nick-fuentes.mp3" length="52132844" type="audio/mpeg"/>
+      <itunes:duration>54:18</itunes:duration>
+      <itunes:image href="https://github.com/podcaster/fuentescast/releases/download/luke-beasley-vs-nick-fuentes/luke-beasley-vs-nick-fuentes.png"/>
+      <podcast:chapters url="https://podcaster.github.io/fuentescast/chapters/luke-beasley-vs-nick-fuentes.json" type="application/json+chapters"/>
+      <psc:chapters version="1.2">
+        <psc:chapter start="00:00:00.000" title="Intro: Trump Advocacy Question"/>
+        <psc:chapter start="00:02:05.000" title="Trump, Immigration, Working‑Class Analysis"/>
+        <psc:chapter start="00:15:03.000" title="AFPAC &amp; Ukraine War Discussion"/>
+        <psc:chapter start="00:24:39.000" title="Women and Relationships"/>
+        <psc:chapter start="00:45:00.000" title="Superchat / Fandom Commentary"/>
+        <psc:chapter start="00:48:31.000" title="Democracy and Dictatorship Debate"/>
+      </psc:chapters>
+      <description><![CDATA[Original video: <a href="https://americafirst.plus/media/luke-beasley-vs-nick-fuentes">https://americafirst.plus/media/luke-beasley-vs-nick-fuentes</a><br/>
+Support the show: <a href="https://americafirst.plus">https://americafirst.plus</a><br/>
+Merch store: <a href="https://fuentes.store">https://fuentes.store</a><br/>
+<br/>
+<br/>
+Chapters:<br/>
+00:00:00 Intro: Trump Advocacy Question<br/>
+00:02:05 Trump, Immigration, Working‑Class Analysis<br/>
+00:15:03 AFPAC &amp; Ukraine War Discussion<br/>
+00:24:39 Women and Relationships<br/>
+00:45:00 Superchat / Fandom Commentary<br/>
+00:48:31 Democracy and Dictatorship Debate<br/>
+<br/>
+<br/>
+Chapters are automatically generated and may contain mistakes.]]></description>
+    </item>
+    <item>
       <title>Nick Fuentes on the Alex Jones Show</title>
       <guid isPermaLink="false">nick-fuentes-on-the-alex-jones-show-rrnxihn</guid>
       <pubDate>Fri, 20 Nov 2026 21:22:57 GMT</pubDate>
