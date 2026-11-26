@@ -1,0 +1,25 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 441,
+      "title": "Merch Promo"
+    },
+    {
+      "startTime": 659,
+      "title": "Iowa Ammunition Story"
+    },
+    {
+      "startTime": 1545,
+      "title": "Superchat Reading"
+    },
+    {
+      "startTime": 5890,
+      "title": "Outro"
+    }
+  ]
+}
